@@ -1,0 +1,4 @@
+pipeline-name: "Modullo Test"
+pipeline-build-command: "npm install"
+pipeline-aws-account: "205958860294"
+pipeline-aws-region: "eu-west-1"

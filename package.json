@@ -18,6 +18,7 @@
     "@aws-cdk/aws-codebuild": "^1.106.1",
     "@aws-cdk/aws-codepipeline": "^1.106.1",
     "@aws-cdk/aws-codepipeline-actions": "^1.106.1",
+    "@aws-cdk/aws-events": "^1.106.1",
     "@aws-cdk/core": "^1.106.1",
     "@aws-cdk/pipelines": "^1.106.1",
     "@supercharge/strings": "^1.18.0",

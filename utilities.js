@@ -20,7 +20,7 @@ async function file_exists(path) {
 exports.file_exists = file_exists;
 
 
-async function readFile(file_type, file_path) {
+function readFile(file_type, file_path) {
   try {
     let doc;
     switch (file_type) {
